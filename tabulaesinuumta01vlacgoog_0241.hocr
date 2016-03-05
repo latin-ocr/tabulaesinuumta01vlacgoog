@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tabulaesinuumta01vlacgoog_0241.png"; bbox 0 0 629 979; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 36 76 70 89">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 36 76 70 89">
+     <span class='ocr_line' id='line_1_1' title="bbox 36 76 70 89; baseline -0.029 0"><span class='ocrx_word' id='word_1_1' title='bbox 36 76 70 89; x_wconf 79' lang='lat'>200</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 575 36 591 224">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 575 36 591 224">
+     <span class='ocr_line' id='line_1_2' title="bbox 575 36 591 224; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 589 215 591 224; x_wconf 62' lang='lat'>.„</span> <span class='ocrx_word' id='word_1_3' title='bbox 575 36 591 201; x_wconf 23' lang='lat' dir='ltr'>,-.,r„..x,‚.-.-.-—fl</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
